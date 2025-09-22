@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "408211376018",
+    "firebase_url": "https://test-1be8d-default-rtdb.firebaseio.com",
+    "project_id": "test-1be8d",
+    "storage_bucket": "test-1be8d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408211376018:android:f22cf05aa841a467bc234b",
+        "android_client_info": {
+          "package_name": "com.example.blinketapp1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6w3LbRGZ7k2jX9JBTyntxnexSbLvuN00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408211376018:android:dfca1d05cbb6b273bc234b",
+        "android_client_info": {
+          "package_name": "com.example.zomato1app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6w3LbRGZ7k2jX9JBTyntxnexSbLvuN00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408211376018:android:8d10285f0be7204cbc234b",
+        "android_client_info": {
+          "package_name": "com.example.zomatoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6w3LbRGZ7k2jX9JBTyntxnexSbLvuN00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

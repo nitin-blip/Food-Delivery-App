@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.KomatoSplashScreen" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/redish</item>
+        <item name="postSplashScreenTheme">@style/Theme.Zomato1App</item>
+
+    </style>
+
+
+    <style name="Theme.Zomato1App" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>

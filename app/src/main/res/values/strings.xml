@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Zomato1App</string>
+    <string name="hide_password">hide_password</string>
+    <string name="show_password">show_password</string>
+    <string name="term_condition">By cheacking the box you  agree  to  our</string>
+
+
+</resources>
